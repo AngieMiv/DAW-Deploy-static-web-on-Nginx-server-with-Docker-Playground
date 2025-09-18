@@ -11,7 +11,7 @@ Conexión a Internet.
 ### Paso 1: Acceso a Docker Playground
 Entra en https://labs.play-with-docker.com/.
 Inicia sesión creando una cuenta .
-Pulsa “Start” y después “+ Add New Instance” para crear un nodo de trabajo. Verás un terminal en el navegador de una maquina linux.
+Pulsa “Start” y después “+ Add New Instance” para crear un nodo de trabajo.Verás un terminal en el navegador de una maquina linux.
 
 ### Paso 2: Crear la estructura de la página
 Dentro de la terminal del nodo, crea un directorio para la página web:
@@ -62,7 +62,7 @@ Lanza el contenedor exponiendo el puerto 80:
 `--name`: da un nombre al contenedor
 
 ### Paso 6: Probar en el navegador
-En la parte superior de Docker Playground, haz clic en el botón “80” que aparece (en la barra con los puertos abiertos). ➡️ Se abrirá una nueva pestaña mostrando tu página HTML servida por Nginx.
+En la parte superior de Docker Playground, haz clic en el botón “80” que aparece (en la barra con los puertos abiertos).➡️ Se abrirá una nueva pestaña mostrando tu página HTML servida por Nginx.
 
 ### Paso 7: Verificar y gestionar
 Comprueba que el contenedor está en ejecución:
