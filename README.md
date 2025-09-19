@@ -51,7 +51,7 @@ COPY index.html /usr/share/nginx/html/index.html
 
 ### Paso 4: Construir la imagen
 Ejecuta:
-`docker build -t miweb:1.0`
+`docker build -t miweb:1.0 .`
 Esto creará una imagen llamada miweb:1.0.
 
 ### Paso 5: Ejecutar el contenedor
